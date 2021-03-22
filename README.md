@@ -13,3 +13,5 @@ John Doe, Senior ELEG student, favorite programming language is Bash
 Elaine Example, Junior MEEG student, favorite programming language is Excel Macros
 
 Premal Patel, Senior CHEG student, favorite programming language is Python
+
+Aaron Liu, Sophomore CISC major, favorite programming langauge is java/csharp
